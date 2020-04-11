@@ -12,7 +12,7 @@ namespace Inheritance
             Teacher teacher = new Teacher("Joni", 33, "191100", "Computer Networking");
             teacher.GetNameAndAge();
 
-            Student student = new Student("Jini Ramdhani", 20, "19.11.0000", "jini@gmail.com");
+            Student student = new Student("Umi Solihah", 18, "19.11.2747", "umi.solihah@students.amikom.ac.id");
             student.GetNameAndAge();
 
             Console.ReadKey();
